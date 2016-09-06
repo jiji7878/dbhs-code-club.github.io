@@ -4,6 +4,7 @@ body {
   max-width: 50em;
 
   font-family: sans-serif;
+  background-image:url('Code-Club-Background.gif');
 }
 
 @media (min-width: 400px) {
